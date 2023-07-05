@@ -1,4 +1,4 @@
-# Mobile_NLW_Return
+# Mobile Feedback Widget
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/EduardoAraD/Mobile_NLW_Return/blob/main/LICENSE)
 
 # Sobre o projeto
