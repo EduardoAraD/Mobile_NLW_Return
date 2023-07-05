@@ -8,6 +8,11 @@ A aplicação é dividida em 3 repositórios e este é o mobile.
 
 Esse projeto é foi realizado no evento **NLW_RETURN** que está na sua 5° edição. Evento realizado pela [Rocketseat](https://www.rocketseat.com.br "Site da Rockeseat").
 
+## Links dos outros repositórios
+
+- WEB https://github.com/EduardoAraD/Web_NLW_Return
+- Backend https://github.com/EduardoAraD/Backend_NLW_Return
+
 ## Layout
 ![Mobile 1](https://github.com/EduardoAraD/assets/blob/main/feedback-widget/init.png) ![Mobile 2](https://github.com/EduardoAraD/assets/blob/main/feedback-widget/idea.png) ![Mobile 3](https://github.com/EduardoAraD/assets/blob/main/feedback-widget/feedback.png)
 
